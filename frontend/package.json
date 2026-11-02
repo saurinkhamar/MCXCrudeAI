@@ -1,0 +1,1 @@
+{"name":"mcx-crude-ai-ui","private":true,"version":"1.0.0","scripts":{"dev":"vite","build":"tsc -b && vite build"},"dependencies":{"react":"latest","react-dom":"latest"},"devDependencies":{"@types/react":"latest","@types/react-dom":"latest","@vitejs/plugin-react":"latest","vite":"latest","typescript":"latest"}}

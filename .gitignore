@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# TypeScript build metadata
+*.tsbuildinfo
+
+# Azurite local storage
+__azurite_db_*.json
+__queuestorage__/
+
+# Secrets and local environments
+backend/.env
+backend/.venv/
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local databases and archives
+data/*.db
+*.zip
